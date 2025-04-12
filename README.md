@@ -30,7 +30,7 @@ This script automates the installation and configuration process of a Debian 12 
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/username/debian12-server-minimal/main/debian12-server-minimal.sh
+wget https://raw.githubusercontent.com/digitalxs/debian12-server-minimal/main/debian12-server-minimal.sh
 
 # Make it executable
 chmod +x debian12-server-minimal.sh
