@@ -39,7 +39,7 @@ wget https://raw.githubusercontent.com/digitalxs/debian12-server-minimal/main/de
 chmod +x debian12-server-minimal.sh
 
 # Run the script as root
-sudo ./debian12-server-minimal.sh
+./debian12-server-minimal.sh
 ```
 
 ## Default Packages
