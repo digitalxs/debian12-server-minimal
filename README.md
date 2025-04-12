@@ -29,6 +29,9 @@ This script automates the installation and configuration process of a Debian 12 
 ### Download and Run
 
 ```bash
+# Login as root
+su -
+
 # Download the script
 wget https://raw.githubusercontent.com/digitalxs/debian12-server-minimal/main/debian12-server-minimal.sh
 
